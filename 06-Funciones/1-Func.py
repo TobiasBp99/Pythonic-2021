@@ -7,3 +7,8 @@ def func_arg(nombre):
 mi_funcion()
 func_arg("Tobias")
 func_arg("Vicente Viloni")
+
+def suma(a,b):
+    return a+b
+
+print(suma(5,3))
